@@ -6,8 +6,8 @@ import pandas as pd
 
 # --- Page config ---
 st.set_page_config(page_title="Clinical Triage Assistant", page_icon="🏥", layout="centered")
-st.title("🏥 Clinical Triage Assistant")
-st.caption("AI-powered symptom analysis and urgency classification. Not a substitute for professional medical advice.")
+st.title("Clinical Triage Assistant")
+st.caption("Test AI Agent Application by Jhinuk Barman")
 
 # --- Load real symptoms from OpenFDA ---
 @st.cache_data
