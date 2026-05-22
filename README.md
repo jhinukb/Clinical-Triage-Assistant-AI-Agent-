@@ -6,7 +6,7 @@ A multi-tool AI agent that classifies patient urgency, suggests differential dia
 
 ## 🔴 Live Demo
 
-👉 **[Try it here](hhttps://clinical-triage-assistant-ai-agent-production.up.railway.app/)** ← *(replace with your Railway URL)*
+👉 **[Try it here](https://clinical-triage-assistant-ai-agent-production.up.railway.app/)**
 
 ---
 
